@@ -1,0 +1,17 @@
+.box {
+  border: double;
+  text-align: center;
+  padding-bottom: 20px;
+  margin: 10px;
+}
+
+.week_deal {
+  background-color: gray;
+  padding-bottom: 40px;
+  margin: 100px;
+}
+
+.week-deal_items {
+  display:flex;
+  justify-content: space-around;
+}
